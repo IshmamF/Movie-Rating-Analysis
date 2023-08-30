@@ -1,4 +1,5 @@
 # Movie-Rating-Analysis
+The objective of this project is to explore a movie ratings dataset from MovieLens to uncover intriguing patterns and insights, such as the average rating of movies, the most popular movies, and the connections between movies and genres. For more details on data collection, preprocessing, exploration, and analysis, please read the documentation file.
 
 ### Setup
 
@@ -8,6 +9,6 @@ Pandas - 2.0.0 <br>
 Matplotlib - 3.7.1 <br>
 NumPy - 1.23.5 <br>
 
-Download movies.csv here: https://files.grouplens.org/datasets/movielens/ml-latest.zip
-(file was too large to upload on github)
+Download movies.csv and ratings.csv here: https://files.grouplens.org/datasets/movielens/ml-latest.zip
+
 
